@@ -1,5 +1,10 @@
 ### Hi there 👋
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pandeysushmit&show_icons=true&theme=yeblu&locale=en&&langs_count=6&count_private=true&layout=compact" alt="pandeysushmit" /></p>
 
+
+
+
+<p><a href="https://github.com/pandeysushmit/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pandeysushmit&show_icons=true&theme=yeblu&locale=en&count_private=true&hide=issues,prs" alt="Pandey Sushmit's github stats" /></a> </p>
 <!--
 **kumarcodes3004/kumarcodes3004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
